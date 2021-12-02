@@ -1,7 +1,12 @@
 import React from 'react';
-import '../../App.css';
+import '../../Sign Up and Login/src/index.css';
+import SignUpLogIn from '../../Sign Up and Login/src/SignUpLogIn';
 
  export default function SignUp() {
-   return <h1 className='sign-up'>LIKE & SUBSCRIBE</h1>;
+   return (
+    <>
+      <SignUpLogIn />
+    </>
+  );
  }
 

@@ -1,0 +1,71 @@
+{
+  "books": [
+    {
+      "book_name": "BookExample1",
+      "book_author": "AuthorExample1",
+      "book_publication_date": "2021-11-03",
+      "book_type": "hardcover",
+      "book_isbn": "",
+      "book_person_id": "",
+      "id": 1
+    },
+    {
+      "book_name": "BookExample1",
+      "book_author": "AuthorExample1",
+      "book_publication_date": "2021-11-03",
+      "book_type": "hardcover",
+      "book_isbn": "",
+      "book_person_id": "",
+      "id": 2
+    },
+    {
+      "book_name": "Book2",
+      "book_author": "author2",
+      "book_publication_date": "2021-11-17",
+      "book_type": "paperback",
+      "book_isbn": "",
+      "book_person_id": "",
+      "id": 3
+    },
+    {
+      "book_name": "BookWithImage",
+      "book_author": "",
+      "book_publication_date": "",
+      "book_type": "",
+      "book_isbn": "",
+      "book_person_id": "",
+      "book_image": "C:\\fakepath\\book-covers-big-2019101610.jpg",
+      "id": 4
+    },
+    {
+      "book_name": "Oz",
+      "book_author": "",
+      "book_publication_date": "",
+      "book_type": "",
+      "book_isbn": "",
+      "book_person_id": "",
+      "book_image": "C:\\fakepath\\97f38953961807.59482e43edb1f.png",
+      "id": 5
+    },
+    {
+      "book_name": "Wizard of Oz",
+      "book_author": "",
+      "book_publication_date": "",
+      "book_type": "paperback",
+      "book_isbn": "",
+      "book_person_id": "",
+      "book_image": "C:\\fakepath\\97f38953961807.59482e43edb1f.png",
+      "id": 6
+    },
+    {
+      "book_name": "Narnia",
+      "book_author": "authorExample",
+      "book_publication_date": "2021-12-30",
+      "book_type": "paperback",
+      "book_isbn": "",
+      "book_person_id": "",
+      "book_image": "",
+      "id": 7
+    }
+  ]
+}
